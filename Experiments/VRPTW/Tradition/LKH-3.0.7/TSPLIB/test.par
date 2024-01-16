@@ -1,0 +1,8 @@
+PROBLEM_FILE = /home/tangkaiqiang/liujiasheng/pycharm_remote/LKH-3.0.7/TSPLIB/test.vrp
+MOVE_TYPE = 5 SPECIAL 
+GAIN23 = NO 
+KICKS = 1 
+KICK_TYPE = 4 
+MAX_SWAPS = 0 
+POPULATION_SIZE = 10
+TOUR_FILE = test.txt

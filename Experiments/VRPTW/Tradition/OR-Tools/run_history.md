@@ -1,0 +1,4 @@
+python run.py  --size 200 --file_pre ./homberger/c1_2/ --filename C1_2_1.txt C1_2_2.txt C1_2_3.txt C1_2_4.txt C1_2_5.txt C1_2_6.txt C1_2_7.txt C1_2_8.txt C1_2_9.txt C1_2_10.txt
+python run.py  --size 400 --file_pre ./homberger/c1_4/ --filename C1_4_1.txt C1_4_2.txt C1_4_3.txt C1_4_4.txt C1_4_5.txt C1_4_6.txt C1_4_7.txt C1_4_8.txt C1_4_9.txt C1_4_10.txt
+python run.py  --size 600 --file_pre ./homberger/c1_6/ --filename C1_6_1.txt C1_6_2.txt C1_6_3.txt C1_6_4.txt C1_6_5.txt C1_6_6.txt C1_6_7.txt C1_6_8.txt C1_6_9.txt C1_6_10.txt
+python run.py  --size 1000 --file_pre ./homberger/c1_10/ --filename C1_10_1.txt C1_10_2.txt C1_10_3.txt C1_10_4.txt C1_10_5.txt C1_10_6.txt C1_10_7.txt C1_10_8.txt C1_10_9.txt C1_10_10.txt
